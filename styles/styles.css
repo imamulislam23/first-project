@@ -70,8 +70,8 @@ main{
 }
 
 .button:hover {
-  background-color: #372fcf; /* slightly darker blue */
-  transform: scale(1.03);    /* slight grow on hover */
+  background-color: #2fcf77; 
+  transform: scale(1.03);  
 }
 
 
