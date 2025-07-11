@@ -75,6 +75,7 @@ main{
 }
 
 
+
     
 
 
@@ -164,4 +165,9 @@ footer div li{
 
 footer li a{
     text-decoration: none;
+}
+
+
+.testimonials-card{
+    display: flex;
 }
