@@ -170,4 +170,18 @@ footer li a{
 
 .testimonial-cards-container{
     display: flex;
+    justify-content: space-around;
+}
+
+.testimonial-card{
+     background-color: #eaeaf0; 
+    padding: 50px 50px; 
+    text-align: center;
+    border-radius: 24px;
+    
+    margin: 20px;
+}
+
+.stars{
+    color: darkorange;
 }
